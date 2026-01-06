@@ -1,1 +1,0 @@
-# proof-mining-workshop.github.io
