@@ -101,3 +101,14 @@ ol.lists li {
 :link:hover, *:visited:hover, .clickable:hover {
     text-decoration: underline;
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
